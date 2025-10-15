@@ -1,2 +1,9 @@
-# Kashyap_CSE
-Phase 1-2-3 Test repo
+##Project Title 
+
+##Problem Statement/Abstract
+
+##Goals/Requirements
+
+##Tech Stack 
+
+##Phase status (e.g., “Conception Phase”,  “Development/Reflection Phase”,  “Finalisation Phase”) 
